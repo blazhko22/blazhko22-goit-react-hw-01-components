@@ -1,0 +1,30 @@
+.table {
+  width: 600px;
+  margin: 0 auto;
+  background-color: white;
+}
+
+.tableHead {
+  height: 40px;
+  background-color: rgba(113, 113, 238, 0.815);
+}
+
+.string {
+  height: 40px;
+}
+
+.tbody:nth-child(2n + 1) {
+  background-color: #919090;
+}
+
+.type {
+  text-align: center;
+}
+
+.amount {
+  text-align: center;
+}
+
+.currency {
+  text-align: center;
+}
